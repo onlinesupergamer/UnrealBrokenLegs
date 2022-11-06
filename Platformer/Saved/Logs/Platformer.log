@@ -4741,3 +4741,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.06-00.14.15:845][703]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2022.11.06-00.14.25:594][834]LogSlate: Window 'Message Log' being destroyed
 [2022.11.06-00.14.25:599][834]LogSlate: Window 'Message Log' being destroyed
+[2022.11.06-00.24.23:487][470]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.11.06-00.24.47:542][542]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.11.06-00.25.14:730][623]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.11.06-00.26.46:683][897]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
